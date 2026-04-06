@@ -1,7 +1,7 @@
 # Proyecto: Analisis de desempeño financiero con SQL Bootcamp Data Analyst TripleTen 2026 
 
 
-## Objetivoo
+## Objetivo
 
 Proyecto enfocado en el análisis del desempeño financiero de una empresa mediante consultas SQL sobre bases de datos relacionales. Se desarrollaron métricas clave y reportes ejecutivos para identificar tendencias, evaluar resultados y facilitar la toma de decisiones.
 
