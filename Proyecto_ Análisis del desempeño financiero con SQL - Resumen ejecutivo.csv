@@ -1,0 +1,50 @@
+,,,,,,,,,,
+,Pais,ClaveTerritorio,ingresos,costos,CostoCampanas,BeneficioBruto,Margen_pct,ROI_pct,,INSIGHT C F I
+,United States,1,"$3,353,939.92","$1,899,471.33","$1,920,000.00","$1,454,468.60",43.37%,75.75%,,Contexto:
+,Australia,9,"$2,532,003.49","$1,474,958.18","$2,150,400.00","$1,057,045.31",41.75%,49.16%,,"Se analizó el desempeño financiero del año 2017 integrando información de ventas, productos, territorios y campañas de marketing.
+El objetivo fue evaluar ingresos, costos operativos y gasto en campañas para calcular indicadores clave de negocio: Beneficio Bruto, Margen y ROI por país.
+El análisis permitió entender no solo cuánto se vende, sino qué tan rentable es cada mercado y qué tan eficiente es la inversión en marketing.
+"
+,United Kingdom,10,"$1,189,636.78","$681,508.55","$2,304,000.00","$508,128.24",42.71%,22.05%,,
+,Germany,8,"$1,071,460.42","$611,295.36","$2,265,600.00","$460,165.06",42.95%,20.31%,,Hallazgos
+,France,7,"$924,316.93","$527,797.14","$2,208,000.00","$396,519.79",42.9%,17.96%,,"1)Países con buen margen pero bajo ROI
+En algunos casos el negocio es operativo y comercialmente eficiente, pero el gasto en campañas reduce significativamente la rentabilidad final.
+Estados Unidos es el mercado más fuerte en volumen Es el país con mayores ingresos y mayor beneficio bruto, lo que lo posiciona como el motor principal del negocio
+"
+,Canada,6,"$710,205.18","$392,325.91","$1,824,000.00","$317,879.27",44.76%,17.43%,,
+,,,,,,,,,,"2)Existen diferencias importantes en margen entre países
+Algunos mercados generan ventas altas pero con menor eficiencia operativa (margen más bajo), lo que sugiere estructuras de costos más pesadas.
+"
+,¿Cuál es la diferencia entre Margen y ROI?,,,,,,,,,
+,"1)El margen mide la eficiencia operativa del negocio, evalúa qué tan saludable es el negocio antes de considerar inversiones como marketing. El ROI (retorno de inversión) mide la rentabilidad de una inversión específica, evalúa si la inversión en marketing valió la pena
+Margen = eficiencia del negocio. El margen evalúa el negocio base.
+ROI = eficiencia de la inversión. El ROI evalúa la calidad de la inversión en marketing.",,,,,,,,,"3)No todas las campañas generan el mismo retorno
+En ciertos países el ROI es considerablemente menor, lo que indica que la inversión en marketing no siempre se traduce en rentabilidad proporcional.
+"
+,¿Por qué el ROI en Estados Unidos es tan alto comparado con otros países?,,,,,,,,,
+,"1)Es el país con mayores ingresos y mayor beneficio bruto, lo que lo posiciona como el motor principal del negocio. tiene la eficiencia de inversión más alta de todos con un ROI del 75.75% y su margen es el segundo más alto lo que indica que la eficiencia del negocio es muy sana. Posibles razones
+Mejor madurez del mercado
+Mayor segmentación de campañas
+Mayor volumen de ventas que diluye el gasto de marketing
+Economias de escala",,,,,,,,,Implicación
+,"Si aumentáramos el gasto de campañas en un 50%, ¿qué pasaría con el ROI?",,,,,,,,,"1)El análisis demuestra que no basta con vender más, sino que es clave entender:
+Dónde se gana más
+Dónde se invierte mejor
+Dónde se están erosionando márgenes
+Este tipo de análisis permite tomar decisiones estratégicas basadas en rentabilidad real, no solo en volumen de ventas
+"
+,"1) Depende del comportamiento de la demanda:
+Si las ventas crecen proporcionalmente el ROI se mantiene.
+Si las ventas crecen menos que el gasto el ROI disminuye.
+Si las ventas no crecen significativamente el ROI cae fuertemente.
+El ROI es inversamente sensible al aumento de inversión si no hay crecimiento equivalente en beneficio bruto.",,,,,,,,,
+,,,,,,,,,,"2)Implicación estratégica clave
+El Margen define si el negocio es sano.
+El ROI define si el crecimiento es rentable.
+Un negocio puede vender mucho (alto ingreso), pero si:
+Tiene bajo margen no es eficiente.
+Tiene bajo ROI está creciendo de forma poco rentable.Para la dirección financiera:
+Primero se asegura un buen margen (base sólida).
+Luego se optimiza el ROI (crecimiento inteligente).
+Ambos indicadores juntos permiten tomar decisiones equilibradas entre eficiencia y expansión."
+, ,,,,,,,,,
