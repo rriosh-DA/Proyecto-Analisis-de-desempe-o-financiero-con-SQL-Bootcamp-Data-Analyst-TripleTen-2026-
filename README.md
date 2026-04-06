@@ -1,21 +1,21 @@
 # Proyecto: Analisis de desempeño financiero con SQL Bootcamp Data Analyst TripleTen 2026 
 
 
-Objetivo
+## Objetivoo
 
 Proyecto enfocado en el análisis del desempeño financiero de una empresa mediante consultas SQL sobre bases de datos relacionales. Se desarrollaron métricas clave y reportes ejecutivos para identificar tendencias, evaluar resultados y facilitar la toma de decisiones.
 
-Archivo utilizado
+## Archivo utilizado
 
 •	Proyecto_ Análisis del desempeño financiero con SQL - Resumen ejecutivo.xlsx
 
 •	Proyecto_ Análisis del desempeño financiero con SQL - Resumen ejecutivo.csv
 
-Dashboard
+## Dashboard
 
 ![ Dashboard_Proyecto_ Análisis del desempeño financiero con SQL - Resumen ejecutivo]( Dashboard_Proyecto_ Análisis del desempeño financiero con SQL - Resumen ejecutivo.png)
 
-Actividades realizadas
+## Actividades realizadas
 
 •	Exploración de bases de datos relacionales
 
@@ -29,7 +29,7 @@ Actividades realizadas
 
 •	Desarrollo de reportes financieros ejecutivos
 
-Herramientas
+## Herramientas
 
 •	SQL
 
@@ -39,7 +39,7 @@ Herramientas
 
 •	GitHub
 
-Resultados
+## Resultados
 
 •	Identificación de ingresos, costos y utilidades por periodo
 
